@@ -1,5 +1,4 @@
 # Hamster Promo Code Generator
-![image](https://github.com/Aka-Bobur/uzhamsterkeys.io/blob/main/image_2024-08-18_01-43-25.png)
 ![image](https://github.com/Aka-Bobur/uzhamsterkeys.io/blob/main/manual.png)
 
 
