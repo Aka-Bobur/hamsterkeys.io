@@ -1,5 +1,6 @@
 # Hamster Promo Code Generator
 ![image](https://github.com/Aka-Bobur/uzhamsterkeys.io/blob/main/manual.png)
+![image](https://github.com/Aka-Bobur/uzhamsterkeys.io/blob/main/10keys.png)
 
 
 Ushbu loyiha turli o'yinlar uchun promo-kodlarni yaratish uchun veb-ilovadir. Ilova foydalanuvchilarga o'yinni tanlash, ular yaratmoqchi bo'lgan promo-kodlar sonini tanlash imkonini beradi va keyin jarayonni ko'rsatgan holda kodlarni yaratadi. Ilova shuningdek, yaratilgan kodlarni clipboardga nusxalash imkoniyatlarini ham o'z ichiga oladi.
