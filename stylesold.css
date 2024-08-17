@@ -1,12 +1,55 @@
-body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #f5f7fa;
-    color: #333;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+html, body {
     margin: 0;
+    padding: 0;
+    max-height: device-height;
+	width: device-width;
+    box-sizing: border-box;
+			display: flex;
+		justify-content: center;
+		align-items: center;
+}
+
+	body {
+		font-family: 'Roboto', sans-serif;
+		background-color: #f5f7fa;
+		color: #333;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 100vh;
+		margin: 0;
+		width: 100%;
+	
+	}
+
+@media screen and (max-width: 600px) {
+	body {
+		font-family: 'Roboto', sans-serif;
+		background-color: #f5f7fa;
+		color: #333;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 120vh;
+		margin: 0;
+		width: device-width;
+	
+	}
+}
+
+@media screen and (min-width: 50px) {
+	body {
+		font-family: 'Roboto', sans-serif;
+		background-color: #f5f7fa;
+		color: #333;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 120vh;
+		margin: 0;
+		width: device-width;
+	
+	}
 }
 
 .container {
@@ -27,7 +70,7 @@ h1 {
 
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
     gap: 15px;
     margin-bottom: 20px;
 }
