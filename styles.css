@@ -116,6 +116,7 @@ button {
     cursor: pointer;
     transition: background-color 0.3s;
     margin-top: 20px;
+	margin-bottom: 10px;
 }
 
 button:hover {
