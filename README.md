@@ -7,6 +7,9 @@ Ushbu loyiha turli o'yinlar uchun promo-kodlarni yaratish uchun veb-ilovadir. Il
 
 ## ⭐ 💹 Ommaviy kalitlar kerakmi?
 - Men bilan bog'laning: [Telegram](https://t.me/uzcrypto_billionaires)
+
+## WEB sahifa
+[Web page](https://aka-bobur.github.io/uzhamsterkeys.io/)
   
 ## Xususiyatlari
 
